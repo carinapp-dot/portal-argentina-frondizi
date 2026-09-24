@@ -1,8 +1,6 @@
-PORTAL ARGENTINA — FRONDIZI V5.3
+PORTAL ARGENTINA — FRONDIZI — COPIA RECUPERADA
 
-Correcciones:
-- Recorrido cronológico restaurado y aislado de versiones anteriores.
-- Periódico y radio vuelven a ser pasos obligatorios antes del teléfono.
-- Orden: Frondizi > Documentos > Mapa > Petróleo > Periódico > Radio > Teléfono.
-- Respuestas correctas redistribuidas entre opciones 1, 2 y 3.
-- Se mantienen reintentos, voz unificada y secuencia final del 29/03/1962.
+Base: V6.4 con entrega docente.
+Único cambio técnico: espacio de progreso nuevo para impedir que el navegador reutilice una partida anterior.
+Ruta: Frondizi → Documentos → Mapa → Petróleo → Prensa → Radio → Teléfono.
+El contenido, la entrega docente y la narración no fueron modificados.
